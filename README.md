@@ -1,4 +1,4 @@
-Assignment 4 – Instruction-Level Parallelism (ILP)
+# Assignment 4 – Instruction-Level Parallelism (ILP)
 
 This repository contains the practical work for Assignment 4, which explores Instruction-Level Parallelism (ILP) using the gem5 simulator. The goal of the experiments was to understand how modern processor techniques such as pipelining, out-of-order execution, superscalar issue, and simultaneous multithreading (SMT) affect performance.
 
